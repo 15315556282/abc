@@ -12,7 +12,7 @@ File Encoding         : 65001
 
 Date: 2016-03-11 14:57:42
 */
-
+add one row record for second modify git study 
 -- ----------------------------
 -- Table structure for `t_user_info`
 -- ----------------------------
