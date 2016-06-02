@@ -13,8 +13,6 @@ File Encoding         : 65001
 Date: 2016-03-11 14:57:42
 */
 
-SET FOREIGN_KEY_CHECKS=0;
-
 -- ----------------------------
 -- Table structure for `t_user_info`
 -- ----------------------------
